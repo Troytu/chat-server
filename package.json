@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "chat server",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server/index.js"
   },
   "dependencies": {
     "express": "^4.14.0",
